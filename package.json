@@ -7,10 +7,10 @@
     "eslint-plugin-import": "^2.12.0"
   },
   "name": "generate-y-axis-decorator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "./lib/index.js",
   "repository": "https://github.com/Envisio/generate-y-axis-decorator.git",
-  "author": "Barry Shao <bshao@envisio.com>",
+  "author": "s@zhso.net",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./src --fix",
